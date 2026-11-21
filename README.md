@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://ruebix.com">Website</a> ·
-  <a href="mailto:hello@ruebix.com">hello@ruebix.com</a> ·
+  <a href="mailto:ruebixofficial@gmial.com">hello@ruebix.com</a> ·
   Batticaloa, Sri Lanka
 </p>
 
